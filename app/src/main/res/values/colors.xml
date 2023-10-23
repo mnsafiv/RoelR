@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="ColorBorderStatus">#B84A42</color>
+    <color name="ColorTextStatus">#162883</color>
+    <color name="SelectObject">#A13EB3</color>
+    <color name="SkillColorBorderBase">#1357A0</color>
+    <color name="SkillColorBorderBaseNoActive">#A918D1</color>
+    <color name="Grass">#2CB152</color>
+    <color name="Path">#9A2D177C</color>
+    <color name="ColorBorderDefault">#491569</color>
+    <color name="ColorTextOnBorderDefault">#2B1413</color>
+</resources>
